@@ -12,6 +12,7 @@ To predict with High levels of Accuracy the likelyhood of a patient to have a he
 
 ## Authors
 [Mehul Suresh Kumar](https://github.com/mehulsuresh)
+
 [Kevin Ramnauth](https://github.com/kevin2107)
 
 ## Credits
