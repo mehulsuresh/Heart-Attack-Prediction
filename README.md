@@ -8,7 +8,7 @@ This study attempts to predict with High levels of accuracy the likelyhood of a 
 - Sklearn
 - Xgboost
     
-## Installtion
+## Installation
 
 coming soon
 
