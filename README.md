@@ -1,5 +1,5 @@
 # Heart-Attack-Prediction
-This study attempts to predict with High levels of accuracy the likelyhood of a patient to have a heart attack. Our final mean accruacy was 92.79%. Pleae open an issue if you have any questions or would like to contribute.
+This study attempts to predict with High levels of accuracy the likelyhood of a patient to have a heart attack. Our final mean accruacy was 92.79%. Please open an issue if you have any questions or would like to contribute.
 
 ## Requirements
 - Pandas
