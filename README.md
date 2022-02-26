@@ -9,13 +9,15 @@ This study attempts to predict with High levels of accuracy the likelyhood of a 
 - Xgboost
     
 ## Installation
-
 coming soon
+
 
 ## Authors
 [Mehul Suresh Kumar](https://github.com/mehulsuresh)
 
 [Kevin Ramnauth](https://github.com/kevin2107)
+
+[Prem Suresh](https://github.com/PremSuresh)
 
 ## Credits
 [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Heart+Disease)
